@@ -12,6 +12,3 @@ This project features a Convolutional Neural Network (CNN) built using TensorFlo
 - **Input Shape**: `(28, 28, 1)` grayscale images.
 - **Final Accuracy**: Achieved 91% accuracy on the test set.
 - **Demonstrated Skills**: Image classification, model evaluation, and CNN architecture design.
-
-F
-
